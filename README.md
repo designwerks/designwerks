@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @designwerks
-- 👀 I’m interested in xcode and react native firebase
-- 🌱 I’m currently learning which Mac will replace my old MacBook Pro Late 2013
+- 👀 I’m interested in Xcode and SwiftUI including firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me at johnlein63@gmail.com
 
